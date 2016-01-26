@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AsyncExample</string>
+    <string-array name="url">
+
+
+    </string-array>
+    <string-array name="Nameofactress">
+        <item>
+            android
+        </item>
+        <item>
+            java
+        </item>
+        <item>
+            babes
+        </item>
+        <item>
+            angels
+        </item>
+    </string-array>
+</resources>
